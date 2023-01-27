@@ -1,2 +1,2 @@
-# javamerhaba
-Java hello-world uygulaması
+# java
+This is a basic java application that I use in Docker learning.
